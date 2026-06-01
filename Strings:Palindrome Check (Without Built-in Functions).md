@@ -20,6 +20,7 @@ if string == rev:
     print("The string is a palindrome.")
 else:
     print("The string is not a palindrome.")
+
 ```
 ## Output
 <img width="610" height="695" alt="image" src="https://github.com/user-attachments/assets/2f4a3290-a918-4b8b-babc-574234eaa7ac" />
