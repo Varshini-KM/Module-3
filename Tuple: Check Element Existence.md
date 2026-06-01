@@ -10,8 +10,16 @@ To write a Python program that checks if the element `'n'` and the element `8` e
 4. Print the results.
 
 ## 🧾 Program
-Add code here
+```
+x = ('a', 'n', 'g', 'e', 'l', 8, 10, 15)
 
+print('n' in x)
+print(8 in x)
+```
 ## Output
+<img width="499" height="780" alt="image" src="https://github.com/user-attachments/assets/9ce1d104-686c-4cee-939a-bc9a0b7fdaab" />
 
 ## Result
+Thus, the program has been excecuted successfully.
+
+
